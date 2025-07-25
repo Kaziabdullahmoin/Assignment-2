@@ -35,3 +35,45 @@
     height: 15px;
 
 }
+.div-b{
+display: flex;
+width: 1140px;
+height: 461px;
+margin: 80px auto 0 auto;
+}
+
+.div-c{
+    width: 570px;
+    height: 229px;
+    gap: 13px;
+    margin-top: 60px;
+    
+}
+.h1-a{
+    height: 178px;
+    font-size: 65px;
+    font-weight: bold;
+    color: #E95A08;
+}
+.sp-a{
+    color: black;
+}
+.p-a{
+    height: 108px;
+    font-size: 22px;
+}
+.div-d{
+    width: 570px;
+    height: 355px;
+    margin-top: 106px;
+}
+
+
+@media screen and (max-width<577px) {
+ #home
+ #aboutus
+ #shop{
+    display:none;
+ }
+    
+}
