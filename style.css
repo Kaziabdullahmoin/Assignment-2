@@ -1,0 +1,37 @@
+.div-a{
+    display: flex;
+    justify-content: space-between;
+    width: 1140px;
+    height: 71px;
+ margin: 0 auto;
+ gap: 148px;
+}
+.ul-a{
+    display: flex;
+    width: 416px;
+    height: 60px;
+    gap: 8px;
+    
+}
+.li-a{
+    list-style: none;
+    display: inline-block;
+        width: 46px;
+    height: 24px;
+}
+#home{
+    font-weight: bold;
+    color: black;
+}
+#aboutus{
+        width: 73px;
+   
+}
+#cart{
+    width: 113px;
+}
+.img-a{
+    width: 22px;
+    height: 15px;
+
+}
