@@ -67,13 +67,300 @@ margin: 80px auto 0 auto;
     height: 355px;
     margin-top: 106px;
 }
+.div-e{
+margin-left: auto;
+margin-right: auto;
+width: 1140px;
+height: 1187px;
+}
+.div-f{
+ width: 1140px;
+ height: 138px;
+    text-align: center;
+}
+.h1-b{
+    height: 68px;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.sp-b{
+    color: #E95A08;
+}
+.p-b{
+    width: 888px;
+    height:54px ;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 22px;
+}
+.div-i{
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    margin-top: 50px;
+}
+.div-g{
+width: 270px;
+height: 485px;
+}
+.img-b{
+    width: 270px;
+    height: 323px;
+}
+.div-h{
+    width: 270px;
+    height: 132px;
+}
+.p-c{
+    width: 132px;
+    height: 16px;
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4{
+    width: 81px;
+    height: 16px;
+    font-size: 22px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+.btn-a{
+    width:270px;
+    height: 50px;
+   background-color: #E95A08;
+   color: white;
+   font-size: 25px;
+}
+.div-j{
+    width: 1140px;
+    height: 597px;
+    margin-top: 200px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div-01{
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 1440px;
+}
+.div-k{
+    width: 540px;
+    height: 597px;
+    display: flex;
+    
+}
+.img-d{
+    width: 286px;
+    height: 286px;
+    margin-left: -150px;
+
+margin-top: -150px;
 
 
-@media screen and (max-width<577px) {
+}
+.div-m{
+    width: 540px;
+    height: 521px;
+margin-top: 40px;
+    margin-left: 60px;
+    margin-bottom: 15px;
+
+}
+.h1-c{
+    height: 170px;
+    font-size:40px;
+    font-weight: bold;
+}
+.ul-b{
+    margin-top: -130px;
+}
+.li-b{
+    height: 108px;
+    font-size: 22px;
+padding: 20px;
+}
+
+.div-n{
+    width: 1140px;
+    height: 424px;
+    display: grid;
+    grid-template-columns: repeat(2 , 1fr);
+    gap: 28px;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.div-p{
+    width: 367px;
+    height: 423px;
+    gap: 25px;
+}
+.div-q{
+    width: 753px;
+    height: 423px;
+    background-image: url(assets/deal-zabo.png);
+ border-radius: 22px;
+ text-align: center;
+
+}
+.div-o{
+    height: 206px;
+    background-image: url(assets/deal-bloom.png);
+    border-radius: 15px;
+    margin-top: -20px;
+}
+.div-o1{
+    height: 206px;
+    border-radius: 15px;
+    background-image: url(assets/deal-ana.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.p-d{
+    width: 270px;
+    height: 27px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+
+padding-top: 50px;
+margin-left: auto;
+margin-right: auto;
+
+ 
+}
+.btn-f{
+    width: 79px;
+    height: 12px;
+    font-size: 16px;
+    font-weight: 300;
+
+color: white;
+padding: 60px;
+margin-left:60px;
+
+}
+.p-e{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 130px;
+
+}
+.btn-g{
+    width: 138px;
+    height: 20px;
+    font-size: 35px;
+
+   
+}
+.div-r{
+    width: 1440px;
+    height: 530px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 50px;
+    background-image: url(assets/news-letter-bg.png);
+}
+
+.p-f{
+    width: 586px;
+    height: 68px;
+   font-size: 50px;
+   font-weight: bold;
+   color: white;
+
+
+}
+.p-g{
+    width: 830px;
+    height: 50px;
+    background-color: white;
+    display: flex;
+}
+input{
+    width: 644px;
+    height: 50px;
+    font-size: 18px;
+}
+.btn-04{
+    width: 186px;
+    height: 50px;
+    background-color: #E95A08;
+  
+    font-size: 18px;
+    color: white;
+}
+footer{
+    width: 1440px;
+    height: 348;
+ margin-left: auto;
+    margin-right: auto;
+   
+}
+.div-f{
+width: 1120px;
+height: 248px;
+    display: grid;
+    grid-template-columns: repeat(4 , 1fr);
+    margin-left: 150px;
+}
+.div-f1{
+    width: 359px;
+    height: 179px;
+    
+}
+.img-f1{
+    width: 135px;
+    height: 82px;
+ margin-left: -222px;
+  
+}
+.p-f1{
+    width: 359px;
+    height: 81px;
+    font-size: 20px;
+    margin-top: -5px;
+    text-align: start;
+    color: gray;
+}
+.div-f2{
+    width: 85px;
+    height: 248px;
+    
+}  
+.ul-f{
+    list-style: none;
+    
+}  
+.li-f{
+    width: 128px;
+    height: 24px;
+    color: gray;
+    padding: 10px;
+}
+.div-f4{
+    width: 216px;
+    height: 36px;
+ gap: 20px;
+}
+
+@media screen and (max-width : 577px) {
  #home
  #aboutus
  #shop{
-    display:none;
+    background-color: aqua;
  }
     
 }
